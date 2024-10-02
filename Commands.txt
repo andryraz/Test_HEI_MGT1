@@ -1,0 +1,7 @@
+echo "# Test_HEI_MGT1" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origine https://github.com/andryraz/Test_HEI_MGT1.git
+ git push -u origine main
