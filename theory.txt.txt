@@ -1,0 +1,3 @@
+git pull permet de recuperer les changements
+git clone permet de recuperer des donnes sur gitHub
+Les pull requests permettent également de collaborer avec des développeurs hors du projet officiel. Par exemple, si un développeur travaillait sur une fonctionnalité avec un membre de son équipe, il peut faire une pull request avec le dépôt Bitbucket de ce membre comme dépôt cible au lieu du projet officiel.
